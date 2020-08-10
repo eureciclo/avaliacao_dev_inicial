@@ -31,7 +31,7 @@ garrafa 1: 1
 garrafa 2: 3
 garrafa 3: 4.5
 garrafa 4: 1.5
-resposta: [1L, 4.5L]; sobra 0.5L;
+resposta: [1L, 4.5L], sobra 0.5L;
 ```
 
 3:
@@ -41,5 +41,6 @@ galão: 4.9
 garrafas: 2
 garrafa 1: 4.5
 garrafa 2: 0.4
-resposta: [4.5L, 0.4L]; sobra 0L;
+resposta: [4.5L, 0.4L], sobra 0L;
 ```
+

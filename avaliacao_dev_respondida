@@ -1,0 +1,18 @@
+galao = float (input("Digite o volume do galão: "))
+quant = int (input("Quantidade de garrafas: "))
+garrafas = []
+resposta = ""
+
+for q in range(1, quant+1):
+    cont = float(input(f"Quantidade de litros da garrafa %i = " %q))
+    garrafas.append(cont)
+
+garrafas.sort(reverse=True)
+
+for garrafa in garrafas:
+    if galao-garrafa >=0:
+        galao = galao-garrafa
+        resposta = resposta + f"%.1fL, " %garrafa
+
+print (f"Usa-se as garrafas de: %s" %resposta)
+print (f"Sobrou: %.fL" %galao)

@@ -64,7 +64,7 @@ Garrafa 2:
 Resposta: [4.5L, 0.4L], sobra 0L;
 ```
 
-observação: o formato de entrada de dados é um exemplo, faça da forma que achar melhor. pode ser recebendo do terminal pela entrada padrão (stdin), por paramêtros de linha de comando (ex: --galao "4.9" --garrafa "4.5" --garrafa "0.4").
+observação: o formato de entrada de dados é um exemplo, faça da forma que achar melhor. pode ser recebendo do terminal pela entrada padrão (stdin), por parâmetros de linha de comando (ex: --galao "4.9" --garrafa "4.5" --garrafa "0.4").
 
 ## Sobre diversidade
 A eu**reciclo** se esforça para manter um ambiente seguro para todos os profissionais e candidatos, se você acha que tem um fit bom com a empresa, não importa como você se identifica, sua idade, gênero e localização geográfica, você é bem vindo, aplique! :rainbow_flag: :brown_heart: :curly_haired_woman: :person_white_hair:
